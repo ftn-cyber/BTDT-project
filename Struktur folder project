@@ -1,0 +1,20 @@
+BTDT project/
+│
+├── system pengirim/
+│   └── pengirim.BTTC
+│
+├── database/
+│   └── database.DTTC
+│       └── # penyimpanan data
+│
+├── pembaruan data/
+│   └── pembaruan.BTTC
+│       └── # memperbarui data
+│
+├── penyaluran data/
+│   └── BTMYDatabase/
+│       └── token.PROsfery
+│
+└── Hasil/
+    └── kasir/
+        └── Penerima.BTTC
